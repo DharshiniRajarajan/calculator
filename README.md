@@ -1,2 +1,2 @@
-# calculator
-CALCULATOR
+# CALCULATOR.
+CALCULATOR for codesoft intern
